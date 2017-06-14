@@ -1,0 +1,16 @@
+﻿  NativeDump2IDC.cpp
+e:\documenten\visual studio 2017\projects\nativedump2idc\nativedump2idc\nativedump2idc.cpp(77): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+e:\documenten\visual studio 2017\projects\nativedump2idc\nativedump2idc\nativedump2idc.cpp(93): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note: see declaration of 'strtok'
+e:\documenten\visual studio 2017\projects\nativedump2idc\nativedump2idc\nativedump2idc.cpp(94): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+e:\documenten\visual studio 2017\projects\nativedump2idc\nativedump2idc\nativedump2idc.cpp(95): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note: see declaration of 'strtok'
+e:\documenten\visual studio 2017\projects\nativedump2idc\nativedump2idc\nativedump2idc.cpp(96): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+e:\documenten\visual studio 2017\projects\nativedump2idc\nativedump2idc\nativedump2idc.cpp(153): warning C4018: '<': signed/unsigned mismatch
+e:\documenten\visual studio 2017\projects\nativedump2idc\nativedump2idc\nativedump2idc.cpp(151): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  NativeDump2IDC.vcxproj -> e:\documenten\visual studio 2017\Projects\NativeDump2IDC\Debug\NativeDump2IDC.exe
+  NativeDump2IDC.vcxproj -> e:\documenten\visual studio 2017\Projects\NativeDump2IDC\Debug\NativeDump2IDC.pdb (Partial PDB)
