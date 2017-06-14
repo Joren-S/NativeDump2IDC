@@ -35,6 +35,10 @@ Note: some DLC natives are missing from this one.
 #### 3. 
 
 Make sure the dump is formatted like this:
+
 HASH : Address
+HASH : Address
+HASH : Address
+...
 
 The spaces before and after the ':' are important aswell!
